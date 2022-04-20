@@ -1,0 +1,5 @@
+tweets.json
+tweepy.log
+.twitter_keys.yaml
+.ipynb_checkpoints/
+.env
