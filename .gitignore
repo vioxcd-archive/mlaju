@@ -5,3 +5,5 @@ tweepy.log
 .env
 data/
 Sentiment_Analysis.ipynb
+data.bak/
+extras/
