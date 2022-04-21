@@ -4,3 +4,4 @@ tweepy.log
 .ipynb_checkpoints/
 .env
 data/
+Sentiment_Analysis.ipynb
