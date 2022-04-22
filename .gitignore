@@ -7,3 +7,4 @@ data/
 Sentiment_Analysis.ipynb
 data.bak/
 extras/
+*.png
